@@ -1,0 +1,12 @@
+Course ID:321
+Course Name: CSE321
+Section:07
+Course ID:330
+Course Name:CSE330
+Section:14
+Course ID:461
+Course Name:CSE461
+Section:03
+Course ID:251
+Course Name:CSE251
+Section:14

@@ -1,0 +1,5 @@
+touch course.txt
+gedit course.txt
+cat course.txt
+grep -c 'CSE' course.txt
+

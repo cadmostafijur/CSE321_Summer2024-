@@ -1,0 +1,4 @@
+touch Mostafijur.txt
+gedit Mostafijur.txt
+cat Mostafijur.txt
+sed -n '5,17p' Mostafijur.txt

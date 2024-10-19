@@ -1,0 +1,8 @@
+The Rising Cyber Threat Ecosystem
+The level of sophistication of cyber attacks has increased, as attackers use a variety of methods to break into networks and steal data. Among these dangers are:
+Phishing Attacks: Cyber criminals betray people into disclosing sensitive information, including login credentials or bank account information, by sending them phoney emails or messages. These kinds of assaults are getting more difficult to identify as they get more specialised and targeted.
+Ransomware: Malware known as “ransomware” encrypts a victim’s data and demands payment to have it decrypted. Individuals, vital infrastructure, healthcare, and educational systems are the targets of an increase in these attacks.
+Advanced Persistent Threats (APTs): Extended, deliberate attacks, frequently with official sponsorship, that aim to steal significant amounts of confidential data by gaining unauthorised access to networks.
+Zero-day exploits: Attacks that take use of undiscovered software flaws are known as “zero-day exploits,” and they are especially risky since there are no defences in place when the attack occurs.
+The evolution of ransomware and advanced persistent threats (APTs) poses significant risks to various sectors, with APTs often being state-sponsored and capable of remaining undetected for extended periods (Conti et al., 2018).
+
